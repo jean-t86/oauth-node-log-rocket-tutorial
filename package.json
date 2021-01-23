@@ -1,0 +1,25 @@
+{
+  "name": "oauth-node-log-rocket-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean-t86/oauth-node-log-rocket-tutorial.git"
+  },
+  "author": "J.Tadebois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jean-t86/oauth-node-log-rocket-tutorial/issues"
+  },
+  "homepage": "https://github.com/jean-t86/oauth-node-log-rocket-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-oauth2-server": "^2.4.0",
+    "pg": "^8.5.1"
+  }
+}
